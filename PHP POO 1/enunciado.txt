@@ -1,0 +1,29 @@
+CICLO FORMATIVO DE GRADO SUPERIOR - TÉCNICO EN
+ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN
+REDES
+Implantación de Aplicaciones Web
+Object Oriented Programming(php)
+La programación orientada a objetos nos permite desarrollar mejores estructuras de
+código y generar una buena arquitectura. Dentro de este concepto nos encontramos
+el MVC (Modelo Vista Controlador) de forma que separamos la lógica de una
+determinada aplicación web en diferentes partes. En esta ocasión trabajaremos
+siguiendo este tutorial de OOP en PHP.
+PARTE 1
+A esa clase le añadiremos 5 atributos privados más a nuestra elección con sus
+correspondientes setters y getters.
+PARTE 2
+Implementaremos un método llamado showMe() que mostrara toda la información de
+la persona de forma concatenada por pantalla.
+PARTE 3
+Implementaremos un sencillo formulario de html que mediante método POST
+reciba los atributos e implemente una instancia de esa clase en particular.
+Obviamente tiene que tener tantos campos como atributos le hayamos puesto a la
+clase.
+PARTE 4
+Crearemos una función llamada savePerson($person) que permitirá almacenar en
+una base de datos ese objeto que acabamos de crear. Para ello previamente
+deberemos crear una tabla que sea coherente con la información que queremos
+almacenar dentro.La entrega:
+Una vez desarrollados las diferentes partes, comprimiremos la carpeta entera del
+proyecto con el siguiente nombre:
+[nombre]_[apellidos]_IntroPOO.zip

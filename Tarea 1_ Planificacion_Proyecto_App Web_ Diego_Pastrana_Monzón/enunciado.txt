@@ -1,0 +1,41 @@
+CICLO FORMATIVO DE GRADO SUPERIOR -
+TÉCNICO EN ADMINISTRACIÓN SISTEMAS INFORMÁTICOS EN REDES
+Implantación de Aplicaciones Web
+Desarrollo de Aplicaciones Web. Planificación.
+Durante este curso, el objetivo del módulo es aprender a desarrollar,
+desplegar y mantener aplicaciones web, adaptándolas a las necesidades del
+entorno productivo de las empresas. Para ello, el primer paso es entender el
+proceso de planificacion y llevarlo a la practica en proyectos de pequeño
+alcance.
+Parte 1. Elección de la temática. (2 pts)
+Todo proyecto empieza por determinar un nicho de negocio, bien sea a
+través de un producto o servicio nuevo, bien sea a través de ofrecer mejoras
+o características diferenciadoras de la competencia. Para ello, determina cual
+es tu idea de negocio, especificando los siguiente:
+-
+-
+-
+-
+Nombre de la marca
+Nombre del dominio de la marca (investiga si ya esta reclamado)
+Determinar la imagen institucional (gama de colores y logo)
+Modelo de negocio (como piensas ganar dinero, facilitar el negocio)Parte 2. Definición de requisitos. (4 pts)
+Una vez tenemos la idea general, comenzamos a planificar el
+desarrollo definiendo los requisitos que tiene que cumplir nuestra aplicación
+web.
+Los requisitos funcionales determinan qué operaciones pueden realizar
+los distintos tipos de usuarios en nuestro sitio web, limitando así el alcance
+del proyecto y focalizando los esfuerzos.
+Por otro lado, los requisitos no funcionales especifican un estándares
+de calidad a través de la imposición de restricciones.
+Para esta parte, determinar 15 requisitos funcionales para la aplicación
+web y 10 requisitos no funcionales.
+Parte 3. Planificación del desarrollo (4 pts)
+Una vez tenemos un listado de requisitos, se debe elaborar un plan de
+desarrollo que permita organizar al equipo a lo largo de la producción. Para
+ello, es vital clasificar los requisitos por orden de prioridad tomando en cuenta
+las necesidades del negocio a digitalizar.
+Para esta tarea, prioriza los requisitos funcionales y no funcionales en 3
+versiones incrementales que lanzarías de la aplicación web. La primera
+versión de la web debe incluir un sistema de usuarios con acceso a base de
+datos.
